@@ -250,7 +250,7 @@ IGUI_TH = {
 	
 	IGUI_Packing = "กำลังเอาใส่",
 	IGUI_PuttingInContainer = "กำลังเอาใส่",
-	IGUI_Unpacking = "กำลังเอาออก",
+	IGUI_Unpacking = "กำลังนำออก",
 	IGUI_TakingFromContainer = "กำลังย้าย",
 	IGUI_MovingToContainer = "กำลังย้าย",
 	IGUI_JobType_AddingIngredient = "ใส่%1ลงใน%2",
@@ -1229,7 +1229,7 @@ IGUI_TH = {
 	IGUI_AdminPanel_BuildCheat = "โหมดโกงการสร้าง",
 	IGUI_AdminPanel_MechanicsCheat = "โหมดโกงเครื่องยนต์กลไก",
 	IGUI_AdminPanel_HealthCheat = "โหมดโกงหน้าต่างสุขภาพ",
-	IGUI_AdminPanel_ShowAdminTag = "หากไม่ได้เลือกสิ่งใดในรายการ แท็กแอดมินสีแดงจะไม่ปรากฏด้านบนหัวของคุณ",
+	IGUI_AdminPanel_ShowAdminTag = "หากไม่ได้เลือกสิ่งใดในรายการ แท็กแอดมินสีแดงจะไม่ปรากฏบนศีรษะของคุณ",
 	IGUI_AdminPanel_ItemList = "หน้าต่างแสดงรายการไอเท็ม",
 	IGUI_ItemList_Info = "ดับเบิลคลิกที่ไอเท็มหรือใช้ปุ่มด้านล่างนี้เพื่อเพิ่มไปยังคลังของคุณ",
 	
