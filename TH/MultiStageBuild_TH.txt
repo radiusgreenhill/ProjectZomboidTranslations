@@ -22,7 +22,7 @@ MultiStageBuild_TH = {
     MultiStageBuild_UpgradeMetalWindow_1To2 = "อัปเกรดเป็นหน้าต่างเหล็ก ระดับ 2",
     MultiStageBuild_CreateMetalWindow_2 = "สร้างหน้าต่างเหล็ก ระดับ 2",
     -- wooden door frame
-    MultiStageBuild_UpgradeWoodenDoorFrame_1To2 = "อัปเกรดเป็นกรอบประตูไม้ ระดับ 2",
-    MultiStageBuild_UpgradeWoodenDoorFrame_2To3 = "อัปเกรดเป็นกรอบประตูไม้ ระดับ 3",
+    MultiStageBuild_UpgradeWoodenDoorFrame_1To2 = "อัปเกรดเป็นวงกบประตูไม้ ระดับ 2",
+    MultiStageBuild_UpgradeWoodenDoorFrame_2To3 = "อัปเกรดเป็นวงกบประตูไม้ ระดับ 3",
 }
 
